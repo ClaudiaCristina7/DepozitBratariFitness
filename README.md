@@ -1,5 +1,6 @@
 Program de gestiune a unui depozit de brățări fitness, scris în Java.
-Tehnologii
+
+Tehnologii:
 
 Limbaj: Java
 IDE: IntelliJ IDEA
