@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class DepozitBratariFitness {
 
-    // ===== Campurile structurii =====
+    // Campurile structurii 
 
     static String[]  brand            = new String[100];
     static String[]  tipProdus        = new String[100];
